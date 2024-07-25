@@ -1,0 +1,10 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "Script.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
